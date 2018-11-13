@@ -1,0 +1,7 @@
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\CE1_5pt2\CE1_5pt2\obj\Debug\CE1_5pt2.csprojAssemblyReference.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\CE1_5pt2\CE1_5pt2\obj\Debug\CE1_5pt2.csproj.CoreCompileInputs.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\CE1_5pt2\CE1_5pt2\bin\Debug\CE1_5pt2.exe.config
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\CE1_5pt2\CE1_5pt2\bin\Debug\CE1_5pt2.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\CE1_5pt2\CE1_5pt2\bin\Debug\CE1_5pt2.pdb
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\CE1_5pt2\CE1_5pt2\obj\Debug\CE1_5pt2.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\CE1_5pt2\CE1_5pt2\obj\Debug\CE1_5pt2.pdb
