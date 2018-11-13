@@ -1,0 +1,9 @@
+C:\Users\Mark Mckinney PC\source\repos\trackerV4\trackerV4\obj\Debug\trackerV4.csprojAssemblyReference.cache
+C:\Users\Mark Mckinney PC\source\repos\trackerV4\trackerV4\obj\Debug\trackerV4.csproj.CoreCompileInputs.cache
+C:\Users\Mark Mckinney PC\source\repos\trackerV4\trackerV4\bin\Debug\trackerV4.exe.config
+C:\Users\Mark Mckinney PC\source\repos\trackerV4\trackerV4\bin\Debug\trackerV4.exe
+C:\Users\Mark Mckinney PC\source\repos\trackerV4\trackerV4\bin\Debug\trackerV4.pdb
+C:\Users\Mark Mckinney PC\source\repos\trackerV4\trackerV4\bin\Debug\MySql.Data.dll
+C:\Users\Mark Mckinney PC\source\repos\trackerV4\trackerV4\obj\Debug\trackerV4.csproj.CopyComplete
+C:\Users\Mark Mckinney PC\source\repos\trackerV4\trackerV4\obj\Debug\trackerV4.exe
+C:\Users\Mark Mckinney PC\source\repos\trackerV4\trackerV4\obj\Debug\trackerV4.pdb
