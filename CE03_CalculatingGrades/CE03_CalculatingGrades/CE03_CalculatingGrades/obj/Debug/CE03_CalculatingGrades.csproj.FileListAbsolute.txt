@@ -1,0 +1,14 @@
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE03_CalculatingGrades\CE03_CalculatingGrades\bin\Debug\CE03_CalculatingGrades.exe.config
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE03_CalculatingGrades\CE03_CalculatingGrades\bin\Debug\CE03_CalculatingGrades.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE03_CalculatingGrades\CE03_CalculatingGrades\bin\Debug\CE03_CalculatingGrades.pdb
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE03_CalculatingGrades\CE03_CalculatingGrades\obj\Debug\CE03_CalculatingGrades.csprojAssemblyReference.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE03_CalculatingGrades\CE03_CalculatingGrades\obj\Debug\CE03_CalculatingGrades.csproj.CoreCompileInputs.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE03_CalculatingGrades\CE03_CalculatingGrades\obj\Debug\CE03_CalculatingGrades.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE03_CalculatingGrades\CE03_CalculatingGrades\obj\Debug\CE03_CalculatingGrades.pdb
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CodingExercises2\CE03_CalculatingGrades\CE03_CalculatingGrades\bin\Debug\CE03_CalculatingGrades.exe.config
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CodingExercises2\CE03_CalculatingGrades\CE03_CalculatingGrades\bin\Debug\CE03_CalculatingGrades.exe
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CodingExercises2\CE03_CalculatingGrades\CE03_CalculatingGrades\bin\Debug\CE03_CalculatingGrades.pdb
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CodingExercises2\CE03_CalculatingGrades\CE03_CalculatingGrades\obj\Debug\CE03_CalculatingGrades.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CodingExercises2\CE03_CalculatingGrades\CE03_CalculatingGrades\obj\Debug\CE03_CalculatingGrades.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CodingExercises2\CE03_CalculatingGrades\CE03_CalculatingGrades\obj\Debug\CE03_CalculatingGrades.exe
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CodingExercises2\CE03_CalculatingGrades\CE03_CalculatingGrades\obj\Debug\CE03_CalculatingGrades.pdb
