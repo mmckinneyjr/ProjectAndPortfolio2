@@ -1,0 +1,7 @@
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE04_ColorDictionaryLookup\CE04_ColorDictionaryLookup\obj\Debug\CE04_ColorDictionaryLookup.csprojAssemblyReference.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE04_ColorDictionaryLookup\CE04_ColorDictionaryLookup\obj\Debug\CE04_ColorDictionaryLookup.csproj.CoreCompileInputs.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE04_ColorDictionaryLookup\CE04_ColorDictionaryLookup\bin\Debug\CE04_ColorDictionaryLookup.exe.config
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE04_ColorDictionaryLookup\CE04_ColorDictionaryLookup\bin\Debug\CE04_ColorDictionaryLookup.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE04_ColorDictionaryLookup\CE04_ColorDictionaryLookup\bin\Debug\CE04_ColorDictionaryLookup.pdb
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE04_ColorDictionaryLookup\CE04_ColorDictionaryLookup\obj\Debug\CE04_ColorDictionaryLookup.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\02 Week\CE04_ColorDictionaryLookup\CE04_ColorDictionaryLookup\obj\Debug\CE04_ColorDictionaryLookup.pdb
