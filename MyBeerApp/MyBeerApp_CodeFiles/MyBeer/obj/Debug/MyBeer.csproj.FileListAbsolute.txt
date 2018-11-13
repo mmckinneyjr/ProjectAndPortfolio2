@@ -1,0 +1,9 @@
+C:\Users\Mark Mckinney PC\source\repos\MyBeer\MyBeer\bin\Debug\MyBeer.exe.config
+C:\Users\Mark Mckinney PC\source\repos\MyBeer\MyBeer\bin\Debug\MyBeer.exe
+C:\Users\Mark Mckinney PC\source\repos\MyBeer\MyBeer\bin\Debug\MyBeer.pdb
+C:\Users\Mark Mckinney PC\source\repos\MyBeer\MyBeer\bin\Debug\MySql.Data.dll
+C:\Users\Mark Mckinney PC\source\repos\MyBeer\MyBeer\obj\Debug\MyBeer.csprojAssemblyReference.cache
+C:\Users\Mark Mckinney PC\source\repos\MyBeer\MyBeer\obj\Debug\MyBeer.csproj.CoreCompileInputs.cache
+C:\Users\Mark Mckinney PC\source\repos\MyBeer\MyBeer\obj\Debug\MyBeer.csproj.CopyComplete
+C:\Users\Mark Mckinney PC\source\repos\MyBeer\MyBeer\obj\Debug\MyBeer.exe
+C:\Users\Mark Mckinney PC\source\repos\MyBeer\MyBeer\obj\Debug\MyBeer.pdb
