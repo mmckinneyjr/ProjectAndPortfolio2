@@ -1,0 +1,18 @@
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\bin\Debug\CE1.5.exe.config
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\bin\Debug\CE1.5.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\bin\Debug\CE1.5.pdb
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\obj\Debug\CE1_5pt1.csprojAssemblyReference.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\obj\Debug\CE1_5pt1.csproj.CoreCompileInputs.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\obj\Debug\CE1.5.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\obj\Debug\CE1.5.pdb
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5\bin\Debug\CE1.5.exe.config
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5\bin\Debug\CE1.5.exe
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5\bin\Debug\CE1.5.pdb
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5\obj\Debug\CE1_5pt1.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5\obj\Debug\CE1_5pt1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5\obj\Debug\CE1.5.exe
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5\obj\Debug\CE1.5.pdb
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5pt_1\obj\Debug\CE1_5pt1.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5pt_1\obj\Debug\CE1_5pt1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5pt_1\obj\Debug\CE1.5.exe
+\\vmware-host\Shared Folders\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\Assignment04 - Coding Excercise\MarkMckinney_CodingExercise1and2\Exercise01\CE1_5pt1\CE1_5pt_1\obj\Debug\CE1.5.pdb

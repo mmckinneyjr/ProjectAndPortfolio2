@@ -1,0 +1,14 @@
+C:\Users\Mark Mckinney PC\source\repos\CE1.5\CE1.5\bin\Debug\CE1.5.exe.config
+C:\Users\Mark Mckinney PC\source\repos\CE1.5\CE1.5\bin\Debug\CE1.5.exe
+C:\Users\Mark Mckinney PC\source\repos\CE1.5\CE1.5\bin\Debug\CE1.5.pdb
+C:\Users\Mark Mckinney PC\source\repos\CE1.5\CE1.5\obj\Debug\CE1.5.csprojAssemblyReference.cache
+C:\Users\Mark Mckinney PC\source\repos\CE1.5\CE1.5\obj\Debug\CE1.5.csproj.CoreCompileInputs.cache
+C:\Users\Mark Mckinney PC\source\repos\CE1.5\CE1.5\obj\Debug\CE1.5.exe
+C:\Users\Mark Mckinney PC\source\repos\CE1.5\CE1.5\obj\Debug\CE1.5.pdb
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\bin\Debug\CE1.5.exe.config
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\bin\Debug\CE1.5.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\bin\Debug\CE1.5.pdb
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\obj\Debug\CE1.5.csprojAssemblyReference.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\obj\Debug\CE1.5.csproj.CoreCompileInputs.cache
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\obj\Debug\CE1.5.exe
+Z:\Mobile Development\09 Project and Portfolio II - Mobile Development\01 Week\MarkMckinney_CodingExercise1and2\Exercise01\CE1.5pt1\CE1.5\obj\Debug\CE1.5.pdb
