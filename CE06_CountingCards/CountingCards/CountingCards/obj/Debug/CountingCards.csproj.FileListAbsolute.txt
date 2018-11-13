@@ -1,0 +1,7 @@
+C:\Users\Mark Mckinney PC\source\repos\CountingCards\CountingCards\bin\Debug\CountingCards.exe.config
+C:\Users\Mark Mckinney PC\source\repos\CountingCards\CountingCards\bin\Debug\CountingCards.exe
+C:\Users\Mark Mckinney PC\source\repos\CountingCards\CountingCards\bin\Debug\CountingCards.pdb
+C:\Users\Mark Mckinney PC\source\repos\CountingCards\CountingCards\obj\Debug\CountingCards.csprojAssemblyReference.cache
+C:\Users\Mark Mckinney PC\source\repos\CountingCards\CountingCards\obj\Debug\CountingCards.csproj.CoreCompileInputs.cache
+C:\Users\Mark Mckinney PC\source\repos\CountingCards\CountingCards\obj\Debug\CountingCards.exe
+C:\Users\Mark Mckinney PC\source\repos\CountingCards\CountingCards\obj\Debug\CountingCards.pdb
